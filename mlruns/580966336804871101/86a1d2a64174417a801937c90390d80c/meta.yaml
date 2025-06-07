@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/580966336804871101/86a1d2a64174417a801937c90390d80c/artifacts
+end_time: 1749279149555
+entry_point_name: ''
+experiment_id: '580966336804871101'
+lifecycle_stage: active
+run_id: 86a1d2a64174417a801937c90390d80c
+run_name: aged-pig-664
+run_uuid: 86a1d2a64174417a801937c90390d80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749279132510
+status: 3
+tags: []
+user_id: DELL

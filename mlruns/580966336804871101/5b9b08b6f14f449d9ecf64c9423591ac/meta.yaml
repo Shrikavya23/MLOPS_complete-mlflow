@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/580966336804871101/5b9b08b6f14f449d9ecf64c9423591ac/artifacts
+end_time: 1749276218621
+entry_point_name: ''
+experiment_id: '580966336804871101'
+lifecycle_stage: active
+run_id: 5b9b08b6f14f449d9ecf64c9423591ac
+run_name: stately-grub-406
+run_uuid: 5b9b08b6f14f449d9ecf64c9423591ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749276197712
+status: 3
+tags: []
+user_id: DELL
