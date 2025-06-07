@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/842b80fea8474162bea2300f4e698e82/artifacts
+end_time: 1749280367846
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: 842b80fea8474162bea2300f4e698e82
+run_name: bedecked-mule-185
+run_uuid: 842b80fea8474162bea2300f4e698e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280367643
+status: 3
+tags: []
+user_id: DELL

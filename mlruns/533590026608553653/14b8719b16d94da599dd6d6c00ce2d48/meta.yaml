@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/14b8719b16d94da599dd6d6c00ce2d48/artifacts
+end_time: 1749280367439
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: 14b8719b16d94da599dd6d6c00ce2d48
+run_name: suave-bass-247
+run_uuid: 14b8719b16d94da599dd6d6c00ce2d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280367283
+status: 3
+tags: []
+user_id: DELL

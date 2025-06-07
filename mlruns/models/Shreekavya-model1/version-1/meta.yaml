@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749292445512
+current_stage: None
+description: ''
+last_updated_timestamp: 1749292445512
+name: Shreekavya-model1
+run_id: fed316f17ab84dd4b3c058352587eaa1
+run_link: ''
+source: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/fed316f17ab84dd4b3c058352587eaa1/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/fed316f17ab84dd4b3c058352587eaa1/artifacts/random_forest
+user_id: null
+version: 1

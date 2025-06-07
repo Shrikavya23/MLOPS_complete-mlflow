@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/fed316f17ab84dd4b3c058352587eaa1/artifacts
+end_time: 1749280386458
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: fed316f17ab84dd4b3c058352587eaa1
+run_name: honorable-bird-340
+run_uuid: fed316f17ab84dd4b3c058352587eaa1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280349139
+status: 3
+tags: []
+user_id: DELL

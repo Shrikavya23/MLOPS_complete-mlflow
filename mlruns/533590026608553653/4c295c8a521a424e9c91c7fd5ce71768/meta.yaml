@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/4c295c8a521a424e9c91c7fd5ce71768/artifacts
+end_time: 1749280369538
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: 4c295c8a521a424e9c91c7fd5ce71768
+run_name: enthused-sheep-82
+run_uuid: 4c295c8a521a424e9c91c7fd5ce71768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280369366
+status: 3
+tags: []
+user_id: DELL

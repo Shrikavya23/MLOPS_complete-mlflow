@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/f4bdb45752f648fda3a2d6a720e94b3e/artifacts
+end_time: 1749280369155
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: f4bdb45752f648fda3a2d6a720e94b3e
+run_name: traveling-crow-836
+run_uuid: f4bdb45752f648fda3a2d6a720e94b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280368811
+status: 3
+tags: []
+user_id: DELL

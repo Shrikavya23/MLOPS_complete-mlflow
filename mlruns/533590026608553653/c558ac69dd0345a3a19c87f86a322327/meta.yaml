@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/c558ac69dd0345a3a19c87f86a322327/artifacts
+end_time: 1749280367252
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: c558ac69dd0345a3a19c87f86a322327
+run_name: useful-hog-154
+run_uuid: c558ac69dd0345a3a19c87f86a322327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280367107
+status: 3
+tags: []
+user_id: DELL

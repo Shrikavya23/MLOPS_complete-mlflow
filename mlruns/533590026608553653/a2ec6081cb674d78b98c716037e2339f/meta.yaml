@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/a2ec6081cb674d78b98c716037e2339f/artifacts
+end_time: 1749280368270
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: a2ec6081cb674d78b98c716037e2339f
+run_name: sincere-wasp-329
+run_uuid: a2ec6081cb674d78b98c716037e2339f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280368064
+status: 3
+tags: []
+user_id: DELL

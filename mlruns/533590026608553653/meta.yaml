@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653
+creation_time: 1749280346754
+experiment_id: '533590026608553653'
+last_update_time: 1749280346754
+lifecycle_stage: active
+name: breast-cancer-rf-hp

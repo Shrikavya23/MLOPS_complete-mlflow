@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLOPS%20Series/mlops_mlflow/MLOPS_complete-mlflow/mlruns/533590026608553653/818a39844b0442ef82262819dc20ada0/artifacts
+end_time: 1749280366888
+entry_point_name: ''
+experiment_id: '533590026608553653'
+lifecycle_stage: active
+run_id: 818a39844b0442ef82262819dc20ada0
+run_name: calm-squirrel-349
+run_uuid: 818a39844b0442ef82262819dc20ada0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749280366732
+status: 3
+tags: []
+user_id: DELL
